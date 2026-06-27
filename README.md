@@ -15,13 +15,16 @@
 <table align="center">
     <tr>
         <td width="50%" valign="top">
+            <h3>ABOUT ME</h3>
             <p>
                 Just Your Average Uncertified Autodidact!<br/>
+                <br/>
                 - Explores, Learns, and Creates things for fun.<br/>
                 - Loves Philosophy, Psychology, Finance, and Computers.<br/>
                 - Plays Chess EVERY Day, and Watches LOTS of Anime.<br/>
                 - Has NEVER Worked a Day in Their Life.<br/>
                 - Values Freedom of Choice, and Self Sufficiency.<br/>
+                <br/>
                 <i>Bring Me Your Problems And I'll Give You Solutions</i><br/>
             </p>
         </td>
