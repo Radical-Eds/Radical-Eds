@@ -8,9 +8,9 @@
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Radical-Eds.visitor-badge&logo=github" />
-    <img src="https://img.shields.io/badge/status-hobbyist-00ffe1%3Fstyle=flat&labelColor=05080f" />
-    <img src="https://img.shields.io/badge/specialty-linux-00ffe1%3Fstyle=flat&labelColor=05080f" />
-    <img src="https://img.shields.io/badge/focus-programming-00ffe1%3Fstyle=flat&labelColor=05080f" />
+    <img src="https://img.shields.io/badge/status-hobbyist-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+    <img src="https://img.shields.io/badge/specialty-linux-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+    <img src="https://img.shields.io/badge/focus-programming-00ffe1%3Fstyle=flat&labelColor=8757e9" />
 </p>
 
 <table align="center">
@@ -39,11 +39,13 @@
             </p>
             <p align="center"><b><i>“Bonsai Bokchoy Wiseguy Waterboy”</i></b></p>
             <p align="center"><b><i>“The Light Shines Bright In Old Town Tonight!”</i></b></p>
-            <img src="https://img.shields.io/badge/Python-00ffe1%3Fstyle=flat&labelColor=05080f" />
-            <img src="https://img.shields.io/badge/Perl-00ffe1%3Fstyle=flat&labelColor=05080f" />
-            <img src="https://img.shields.io/badge/NodeJS-00ffe1%3Fstyle=flat&labelColor=05080f" />
-            <img src="https://img.shields.io/badge/GoLang-00ffe1%3Fstyle=flat&labelColor=05080f" />
-            <img src="https://img.shields.io/badge/Bash-00ffe1%3Fstyle=flat&labelColor=05080f" />
+            <p align="center">
+                <img src="https://img.shields.io/badge/Python-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+                <img src="https://img.shields.io/badge/Perl-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+                <img src="https://img.shields.io/badge/NodeJS-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+                <img src="https://img.shields.io/badge/GoLang-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+                <img src="https://img.shields.io/badge/Bash-00ffe1%3Fstyle=flat&labelColor=8757e9" />
+            </p>
         </td>
     </tr>
 </table>
