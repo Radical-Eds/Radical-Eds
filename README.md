@@ -36,8 +36,8 @@
                     alt="gif"
                 />
             </p>
+            <p align="center"><b><i>“The Light Shines Bright In Old Town Tonight!”</i></b></p>
         </td>
     </tr>
 </table>
 
-<p align="center"><b><i>“The Light Shines Bright In Old Town Tonight!”</i></b></p>
