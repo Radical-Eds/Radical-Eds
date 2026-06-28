@@ -19,13 +19,11 @@
             <h3 align="center">ABOUT ME</h3>
             <p>
                 <p align="center"><b>Just Your Average Autodidact</b></p>
-                <br/>
                 🔸 Creates and Explores For Fun.<br/>
-                🔸 Loves <b>Psychology</b> and <b>Philosophy</b>.<br/>
+                🔸 Loves <b>Philosophy</b>.<br/>
                 🔸 Plays <b>Chess</b> EVERY Day.<br/>
                 🔸 Watches LOTS of <b>Anime</b>.<br/>
-                <br/>
-                <i>Bring Me Your Problems And I'll Give You Solutions</i><br/>
+                <p align="center"><i>Bring Me Your Problems And I'll Give You Solutions</i><p/>
             </p>
         </td>
         <td width="50%" valign="top">
