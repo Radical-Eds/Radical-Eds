@@ -59,7 +59,7 @@
     </tr>
 </table>
 
-<table>
+<table align="center">
     <tr>
         <td>
             <p align="center">
