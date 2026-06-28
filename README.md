@@ -18,7 +18,7 @@
         <td width="50%" valign="top">
             <h3 align="center">ABOUT ME</h3>
             <p>
-                <b>Just Your Average Autodidact</b><br/>
+                <p align="center"><b>Just Your Average Autodidact</b></p>
                 <br/>
                 🔸 Creates and Explores For Fun.<br/>
                 🔸 Loves <b>Psychology</b> and <b>Philosophy</b>.<br/>
