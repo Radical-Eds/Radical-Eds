@@ -74,7 +74,7 @@
         </td>
         <td valign="top">
             <p align="center">
-                <h2>You Can Find Me On</h2>
+                <h2>Find Me Online</h2>
             </p>
             <table align="center">
                 <tr>
