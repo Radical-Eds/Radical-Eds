@@ -27,11 +27,10 @@
                         🔸 Plays Chess EVERY Day.<br/>
                         🔸 Experienced Graphic Designer.<br/>
                         🔸 Values Self Sufficiency.<br/>
-                        🔸 Sells on Etsy, Amazon, and Ebay.<br/>
-                        🔸 Master of FFMPEG Commandline.<br/>
+                        🔸 Sells Stuff On Amazon.<br/>
+                        🔸 Master of FFMPEG<br/>
                         🔸 Good with Networking.<br/>
                         🔸 Can use Bash for anything.<br/>
-                        🔸 Interested in Botany.<br/>
                         🔸 Watches LOTS of Anime.<br/>
                     </p>
                 </p>
