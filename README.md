@@ -72,7 +72,7 @@
                 </kbd>
             </p>
         </td>
-        <td>
+        <td valign="top">
             <p align="center">
                 <h2>You Can Find Me On</h2>
             </p>
