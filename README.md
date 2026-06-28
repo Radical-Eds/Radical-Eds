@@ -30,13 +30,13 @@
                         🔸 Sells Stuff On Amazon.<br/>
                         🔸 Master of FFMPEG<br/>
                         🔸 Good with Networking.<br/>
-                        🔸 Can use Bash for anything.<br/>
+                        🔸 Uses Bash for Everything.<br/>
                         🔸 Watches LOTS of Anime.<br/>
                     </p>
                 </p>
             </p>
         </td>
-        <td width="60%">
+        <td width="58%">
             <p align="center" style="margin-top:0;">
                 <kbd>
                     <img
@@ -61,7 +61,7 @@
 
 <table align="center">
     <tr>
-        <td width="60%">
+        <td width="58%">
             <p align="center">
                 <kbd>
                     <img
