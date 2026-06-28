@@ -36,7 +36,7 @@
                 </p>
             </p>
         </td>
-        <td>
+        <td width="60%">
             <p align="center" style="margin-top:0;">
                 <kbd>
                     <img
@@ -61,7 +61,7 @@
 
 <table align="center">
     <tr>
-        <td>
+        <td width="60%">
             <p align="center">
                 <kbd>
                     <img
