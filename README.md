@@ -19,11 +19,22 @@
             <h3 align="center">ABOUT ME</h3>
             <p>
                 <p align="center"><b>Just Your Average Autodidact</b></p>
-                🔸 Creates and Explores For Fun.<br/>
-                🔸 Loves <b>Philosophy</b>.<br/>
-                🔸 Plays <b>Chess</b> EVERY Day.<br/>
-                🔸 Watches LOTS of <b>Anime</b>.<br/>
-                <p align="center"><i>Bring Me Your Problems And I'll Give You Solutions</i><p/>
+                <p align="center">
+                    <p>
+                        🔸 Problem Solver.<br/>
+                        🔸 Creates For Fun.<br/>
+                        🔸 Loves Philosophy.<br/>
+                        🔸 Plays Chess EVERY Day.<br/>
+                        🔸 Experienced Graphic Designer.<br/>
+                        🔸 Values Self Sufficiency.<br/>
+                        🔸 Sells on Etsy, Amazon, and Ebay.<br/>
+                        🔸 Master of FFMPEG Commandline.<br/>
+                        🔸 Good with Networking.<br/>
+                        🔸 Can use Bash for anything.<br/>
+                        🔸 Interested in Botany.<br/>
+                        🔸 Watches LOTS of Anime.<br/>
+                    </p>
+                </p>
             </p>
         </td>
         <td width="50%" valign="top">
