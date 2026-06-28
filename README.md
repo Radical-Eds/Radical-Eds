@@ -25,7 +25,7 @@
                         🔸 Creates For Fun.<br/>
                         🔸 Loves Philosophy.<br/>
                         🔸 Plays Chess EVERY Day.<br/>
-                        🔸 Experienced Graphic Designer.<br/>
+                        🔸 Does Graphic Design.<br/>
                         🔸 Values Self Sufficiency.<br/>
                         🔸 Sells Stuff On Amazon.<br/>
                         🔸 Master of FFMPEG<br/>
