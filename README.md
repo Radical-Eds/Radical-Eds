@@ -59,3 +59,10 @@
     </tr>
 </table>
 
+<kbd>
+    <img
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN5ZHdxOTNxZjI0aHVlcXg2dHo3OTczNWl1ZzRkYnllNjB5emVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhXnGXXYeEZzxX0X0g/giphy.gif"
+        width="100%"
+        alt="gif"
+    />
+</kbd>
