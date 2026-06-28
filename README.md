@@ -59,10 +59,38 @@
     </tr>
 </table>
 
-<kbd>
-    <img
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN5ZHdxOTNxZjI0aHVlcXg2dHo3OTczNWl1ZzRkYnllNjB5emVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhXnGXXYeEZzxX0X0g/giphy.gif"
-        width="100%"
-        alt="gif"
-    />
-</kbd>
+<p align="center">
+    <kbd>
+        <img
+            src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN5ZHdxOTNxZjI0aHVlcXg2dHo3OTczNWl1ZzRkYnllNjB5emVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhXnGXXYeEZzxX0X0g/giphy.gif"
+            width="100%"
+            alt="gif"
+        />
+    </kbd>
+</p>
+
+<table align="center">
+    <caption>
+        My Socials
+    </caption>
+    <tr>
+        <td>Discord</td>
+        <td>Radical.Eds</td>
+    </tr>
+    <tr>
+        <td>Twitter</td>
+        <td>@Radical_Eds</td>
+    </tr>
+    <tr>
+        <td>Youtube</td>
+        <td>@Radical-Edwards</td>
+    </tr>
+    <tr>
+        <td>IRC Servers</td>
+        <td>RadicalEd</td>
+    </tr>
+    <tr>
+        <td>Github</td>
+        <td>Radical-Eds</td>
+    </tr>
+</table>
