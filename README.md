@@ -15,7 +15,7 @@
 
 <table align="center">
     <tr>
-        <td width="50%" valign="top">
+        <td valign="top">
             <h3 align="center">ABOUT ME</h3>
             <p>
                 <p align="center"><b>Just Your Average Autodidact</b></p>
