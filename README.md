@@ -36,8 +36,8 @@
                 </p>
             </p>
         </td>
-        <td width="50%" valign="top">
-            <p align="right" style="margin-top:0;">
+        <td>
+            <p align="center" style="margin-top:0;">
                 <kbd>
                     <img
                         src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p3NDdwYmR1MzNxZjYxcjlzNGwydGMwZ2x5b3hzY3N4eHNzODF6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udhngZK2IFTc4/giphy.gif"
