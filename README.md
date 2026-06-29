@@ -97,6 +97,10 @@
                     <td>IRC Servers</td>
                     <td>@RadicalEd</td>
                 </tr>
+                <tr>
+                    <td>0x00SEC</td>
+                    <td>@RadicalEd</td>
+                </tr>
             </table>
         </td>
     </tr>
